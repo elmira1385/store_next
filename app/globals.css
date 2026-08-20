@@ -10,5 +10,5 @@ body{
 }
 @theme {
   --font-display:Lacquer," Lacquer Fallback";
-  --color-textHeader: oklch(0.7686 0.1647 70.0804);
+  --color-primary: oklch(0.7686 0.1647 70.0804);
 }

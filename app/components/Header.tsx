@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="flex flex-col  relative ">
       <div className="flex justify-between p-4  bg-linear-to-b from-black/5  to-transparent border-b border-gray-300">
-        <p className="font-display uppercase font-normal tracking-wide text-xl text-textHeader">
+        <p className="font-display uppercase font-normal tracking-wide text-xl text-primary">
           🍊 StoreKo
         </p>
         <button
@@ -86,7 +86,7 @@ const Header = () => {
             </svg>
             <p className="text-sm font-semibold">Products</p>
           </div>
-          <div className="flex gap-2 p-2 bg-textHeader items-center rounded-md">
+          <div className="flex gap-2 p-2 bg-primary items-center rounded-md">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="16"
